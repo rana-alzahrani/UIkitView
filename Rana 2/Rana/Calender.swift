@@ -7,14 +7,7 @@
 
 import Foundation
 
-
 struct Calender {
     var day: String
     var date: String
 }
-
-
-
-
-//Date formatter
-//يحول بين سترنق وتاريخ
